@@ -1,0 +1,8 @@
+*~
+.DS_Store
+
+../Smh/.idea
+
+node_modules
+dist
+
